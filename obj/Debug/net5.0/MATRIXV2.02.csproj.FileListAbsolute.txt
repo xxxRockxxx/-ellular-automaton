@@ -1,0 +1,16 @@
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\bin\Debug\net5.0\MATRIXV2.02.exe
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\bin\Debug\net5.0\MATRIXV2.02.deps.json
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\bin\Debug\net5.0\MATRIXV2.02.runtimeconfig.json
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\bin\Debug\net5.0\MATRIXV2.02.runtimeconfig.dev.json
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\bin\Debug\net5.0\MATRIXV2.02.dll
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\bin\Debug\net5.0\ref\MATRIXV2.02.dll
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\bin\Debug\net5.0\MATRIXV2.02.pdb
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\obj\Debug\net5.0\MATRIXV2.02.csproj.AssemblyReference.cache
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\obj\Debug\net5.0\MATRIXV2.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\obj\Debug\net5.0\MATRIXV2.02.AssemblyInfoInputs.cache
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\obj\Debug\net5.0\MATRIXV2.02.AssemblyInfo.cs
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\obj\Debug\net5.0\MATRIXV2.02.csproj.CoreCompileInputs.cache
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\obj\Debug\net5.0\MATRIXV2.02.dll
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\obj\Debug\net5.0\ref\MATRIXV2.02.dll
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\obj\Debug\net5.0\MATRIXV2.02.pdb
+C:\Програмирование\Saves programs\C#\MATRIXV2.02\obj\Debug\net5.0\MATRIXV2.02.genruntimeconfig.cache
