@@ -643,11 +643,21 @@ namespace MATRIXV2._02
                         y++;
                     }
                 }
+                for (int count_y1 = 0; count_y1 < height_y; count_y1++)
+                {
+                    for (int count_x1 = 0; count_x1 < width_x; count_x1++)
+                    {
+                        Matrix[count_y1, count_x1] = Matrix_New[count_y1, count_x1];
+                        Matrix_New[count_y1, count_x1] = 0;
+                    }
+                }
+
+
                 for (int count_y = 0; count_y < height_y; count_y++)
                 {
                     for (int count_x = 0; count_x < width_x; count_x++)
                     {
-                        Console.Write(Matrix_New[count_y, count_x] + "\t");
+                        Console.Write(Matrix[count_y, count_x] + "\t");
                     }
                     Console.WriteLine();
                 }
